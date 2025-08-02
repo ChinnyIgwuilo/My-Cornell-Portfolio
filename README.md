@@ -30,5 +30,4 @@ This project is a **machine learning-based sentiment analysis tool** that classi
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/ChinnyIgwuilo/book-review-sentiment-classifier.git
-   cd book-review-sentiment-classifier
+   https://github.com/ChinnyIgwuilo/My-Cornell-Portfolio/blob/main/DefineAndSolveMLProblem.ipynb
